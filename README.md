@@ -1,5 +1,6 @@
 # table-editer
 table editer component for React
+<<<<<<< HEAD
 
 ## 依赖加载
 
@@ -85,3 +86,5 @@ export default Create;
 ## 线上预览
 
 [线上预览地址]()
+=======
+>>>>>>> 984f48868541d20e1bbb7ec2f6ed553a64625ad1
