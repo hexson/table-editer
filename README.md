@@ -1,14 +1,17 @@
 # table-editer
 table editer component for React
-<<<<<<< HEAD
 
-## 依赖加载
+### 代码地址
+
+[代码地址 -> 传送门](https://github.com/hexson/table-editer)
+
+### 依赖加载
 
 ```shell
 npm install react-handsontable --save
 ```
 
-## 使用
+### 使用
 
 复制`./src/TableEditer.js`以及`TableEditer.css`到你的开发(组件)目录下
 
@@ -75,7 +78,7 @@ class Create extends Component {
 export default Create;
 ```
 
-## 参数说明
+### 参数说明
 
 `root{String}` 表格id
 `data{Array}` 表格内部数据,用户更改数据后,会自动更新source,不建议设置在父组件的state上
@@ -83,8 +86,6 @@ export default Create;
 `matchs{Array}` 选择后的匹配结果
 `updateMatchs{Function}` 更新用户选择匹配后的数据,返回最新的matchs
 
-## 线上预览
+### 线上预览
 
-[线上预览地址]()
-=======
->>>>>>> 984f48868541d20e1bbb7ec2f6ed553a64625ad1
+[线上预览地址](https://hexson.github.io/table-editer/build)
